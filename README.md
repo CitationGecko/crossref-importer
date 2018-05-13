@@ -1,5 +1,11 @@
 # CrossRef Data Importer
 
+Imports citation edge-list data from tsv into dynamoDB.
+
+The citation data was downloaded from CrossRef by Daniel Ecer at eLife using https://github.com/elifesciences/datacapsule-crossref.
+
+A dump of the data from April 2018 is available to download here: https://figshare.com/articles/Crossref_Citation_Links_-_April_2018/6170162
+
 ## Data Dump script
 
 ### Execution
